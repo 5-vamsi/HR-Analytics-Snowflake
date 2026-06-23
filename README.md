@@ -24,7 +24,7 @@ This project helps answer questions such as:
 
 ## Architecture
 
-![HR Analytics Architecture](dashboard/architecture.png)
+![HR Analytics Architecture]dashboard/Architecture.png
 
 ## Technologies Used
 
