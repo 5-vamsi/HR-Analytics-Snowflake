@@ -24,31 +24,7 @@ This project helps answer questions such as:
 
 ## Architecture
 
-```text
-Raw HR Dataset
-       │
-       ▼
-Python Data Cleaning & Transformation
-       │
-       ▼
-Cleaned Dataset
-       │
-       ▼
-Snowflake Data Warehouse
-       │
-       ├── DIM_EMPLOYEE
-       ├── DIM_DEPARTMENT
-       ├── DIM_LOCATION
-       └── FACT_WORKFORCE
-       │
-       ▼
-Analytics Views
-       │
-       ▼
-Power BI Dashboard
-```
-
----
+![HR Analytics Architecture](dashboard/architecture.png)
 
 ## Technologies Used
 
